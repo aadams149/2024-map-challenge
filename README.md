@@ -13,7 +13,7 @@ Challenge](https://30daymapchallenge.com/). This repository contains the code an
 For my first map, I returned to my roots in Brevard County, Florida, like I did last year. This time, I elected to visualize the religious buildings in the county by 20-year interval of construction. The data is sourced from 
 the [Florida Geographic Data Library](https://fgdl.org/ords/r/prod/fgdl-current/catalog), specifically [this dataset](https://fgdl.org/meta/GC_RELIGION.xml).
 
-## Day 1: Lines
+## Day 2: Lines
 
 #### Map: Rainbow Road: Roads in Tallahassee, Florida by Function as of 2024
 
