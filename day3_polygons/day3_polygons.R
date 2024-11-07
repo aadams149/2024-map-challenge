@@ -40,7 +40,9 @@ states_bbox <-
 lower48 <-
   counties %>%
   filter(!(state_name  %in% c('Alaska',
-                              'Hawaii'))) %>%
+                              'Hawaii',
+                              "Puerto Rico",
+                              "U.S. Virgin Islands"))) %>%
   st_crop(y = states_bbox) %>%
   ggplot() +
   geom_sf(aes(fill = name_length),
@@ -185,3 +187,4 @@ ggdraw() +
   draw_plot(hawaii, x = -0.225, y = 0.225, height = 0.11)
 
 ggsave("day3_polygons/day3_polygons.png")
+
