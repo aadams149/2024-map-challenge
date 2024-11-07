@@ -21,3 +21,11 @@ the [Florida Geographic Data Library](https://fgdl.org/ords/r/prod/fgdl-current/
 
 I did my undergraduate studies at Florida State University in Tallahassee, Florida, and that provided the inspiration for my Day 2 map this year. This data comes from the
 [Tallahassee-Leon County GeoData Hub](https://geodata-tlcgis.opendata.arcgis.com/datasets/46349cf3c14142be8f0558a880570e43_0/explore?location=30.449045%2C-84.281911%2C11.91).
+
+## Day 3: Polygons
+
+#### Map: The Measure of One's Character(s): County Name Lengths in the United States
+
+![Day 3: Polygons](day3_lines/day3_lines.png?raw=true "County Name Lengths")
+
+This map is shaded based on how many non-whitespace characters are in each county or county-equivalent name in the U.S.
