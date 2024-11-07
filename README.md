@@ -26,6 +26,6 @@ I did my undergraduate studies at Florida State University in Tallahassee, Flori
 
 #### Map: The Measure of One's Character(s): County Name Lengths in the United States
 
-![Day 3: Polygons](day3_lines/day3_lines.png?raw=true "County Name Lengths")
+![Day 3: Polygons](day3_polygons/day3_polygons.png?raw=true "County Name Lengths")
 
 This map is shaded based on how many non-whitespace characters are in each county or county-equivalent name in the U.S.
