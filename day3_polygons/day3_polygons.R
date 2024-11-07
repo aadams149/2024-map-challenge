@@ -71,7 +71,7 @@ lower48 <-
                                size = 18),
     legend.title = element_text(color = 'black',
                                 size = 18),
-    legend.position = c(1.05, 0.3),
+    legend.position = c(1.01, 0.3),
     plot.caption = element_text(color = 'black',
                                 hjust = 0.5,
                                 size = 18,
